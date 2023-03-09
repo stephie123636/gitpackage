@@ -8,4 +8,7 @@
   },
   "author": "",
   "license": "ISC"
+  "publishConfig": {
+   "@stephie123636:registry": "https://npm.pkg.github.com"
+ }
 }
